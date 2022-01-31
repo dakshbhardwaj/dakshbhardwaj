@@ -6,7 +6,7 @@ I am [Daksh](https://dakshbhardwaj.github.io/), a passionate developer from [ðŸ‡
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshbhardwaj&show_icons=true&theme=onedark" alt="dakshbhardwaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshbhardwaj&" alt="dakshbhardwaj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dakshbhardwaj&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="dakshbhardwaj" /></p>
 
 A Tech Enthusiast And A TechNerd , My Core Interests Lies In Hybrid App Development And Web Development Using Latest Tools And Technique. I Am A Big Google Fan And Interested In Google Provided Services And Techniques Like Service Workers , Progressive Mobile Web Applications And Firebase
 
