@@ -18,13 +18,48 @@ I'm driven by the motto: strive for improvement each day and embrace lifelong le
 
 ## Notable Projects
 
-| Project     | Links |
-|-------------|-------|
-| **Sirji: Open Source Virtual AI Software Developer**<br>**Role:** Contributor<br><br> | **Repo**: [Sirji](https://github.com/sirji-ai/sirji)<br><br>**Roadmap**: [Sirji Roadmap](https://github.com/orgs/sirji-ai/projects/5/views/1)<br><br>**VS Code Marketplace**: [Sirji](https://marketplace.visualstudio.com/items?itemName=TrueSparrow.sirji)<br><br>**PyPI**: <br> • [`sirji-agents`](https://pypi.org/project/sirji-agents/) ![Sirji Agents on PyPI](https://img.shields.io/pypi/v/sirji-agents.svg) <br> • [`sirji-messages`](https://pypi.org/project/sirji-messages/) ![Sirji Messages on PyPI](https://img.shields.io/pypi/v/sirji-messages.svg) <br> • [`sirji-tools`](https://pypi.org/project/sirji-tools/) ![Sirji Tools on PyPI](https://img.shields.io/pypi/v/sirji-tools.svg)<br><br>**Blogs**: [Build in Public Series](https://truesparrow.com/blog/tag/sirji/)<br><br>**YouTube**: [Sirji AI](https://www.youtube.com/@Sirji-ai) |
-| **Jam (Client Project)**<br>**Role**: Principal Software Engineer<br><br> | **Case Study**: [Jam](https://truesparrow.com/case-study/jam) |
-| **Applogger**<br>**Role**: Contributor<br><br> | **NPM**: [AppLogger](https://www.npmjs.com/package/@truesparrow/applogger) <br> **Repo**: [AppLogger GitHub](https://github.com/TrueSparrowSystems/applogger#readme) |
-| **Moxie**<br>**Role**: Software Engineer<br><br> | **Case Study**: [Moxie](https://truesparrow.com/case-study/moxie) |
-| **NFT or NOT**<br>**Role**: Contributor<br><br> | **Repos**: [Frontend](https://github.com/TrueSparrowSystems/nft-or-not-fe) & [Backend](https://github.com/TrueSparrowSystems/nft-or-not-be) <br> **Production URL**: [NFT or Not](https://nftornot.com/) <br> **Event**: [Built at ETHIndia 2022](https://devfolio.co/projects/nftornot-9bb4) |
+### Sirji: Open Source Virtual AI Software Developer
+**Role:** Contributor
+
+**Links:**
+- **Repo:** [Sirji](https://github.com/sirji-ai/sirji)
+- **Roadmap:** [Sirji Roadmap](https://github.com/orgs/sirji-ai/projects/5/views/1)
+- **VS Code Marketplace:** [Sirji](https://marketplace.visualstudio.com/items?itemName=TrueSparrow.sirji)
+- **PyPI:**
+  - [sirji-agents](https://pypi.org/project/sirji-agents/) ![Sirji Agents on PyPI](https://img.shields.io/pypi/v/sirji-agents.svg)
+  - [sirji-messages](https://pypi.org/project/sirji-messages/) ![Sirji Messages on PyPI](https://img.shields.io/pypi/v/sirji-messages.svg)
+  - [sirji-tools](https://pypi.org/project/sirji-tools/) ![Sirji Tools on PyPI](https://img.shields.io/pypi/v/sirji-tools.svg)
+- **Blogs:** [Build in Public Series](https://truesparrow.com/blog/tag/sirji/)
+- **YouTube:** [Sirji AI](https://www.youtube.com/@Sirji-ai)
+
+### Jam (Client Project)
+**Role:** Principal Software Engineer
+
+**Links:**
+- **Case Study:** [Jam](https://truesparrow.com/case-study/jam)
+
+### Applogger
+**Role:** Contributor
+
+**Links:**
+- **NPM:** [AppLogger](https://www.npmjs.com/package/@truesparrow/applogger)
+- **Repo:** [AppLogger GitHub](https://github.com/TrueSparrowSystems/applogger#readme)
+
+### Moxie
+**Role:** Software Engineer
+
+**Links:**
+- **Case Study:** [Moxie](https://truesparrow.com/case-study/moxie)
+
+### NFT or NOT
+**Role:** Contributor
+
+**Links:**
+- **Repos:** 
+  - [Frontend](https://github.com/TrueSparrowSystems/nft-or-not-fe)
+  - [Backend](https://github.com/TrueSparrowSystems/nft-or-not-be)
+- **Production URL:** [NFT or Not](https://nftornot.com/)
+- **Event:** [Built at ETHIndia 2022](https://devfolio.co/projects/nftornot-9bb4)
 
 ---
 
