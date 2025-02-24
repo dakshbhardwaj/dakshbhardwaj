@@ -4,10 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh_Bhardwaj-0077B5)](https://www.linkedin.com/in/daksh-bhardwaj/)
 [![Twitter](https://img.shields.io/badge/Twitter-@dakshbhardwaj25-1DA1F2)](https://twitter.com/dakshbhardwaj25)
 [![Email](https://img.shields.io/badge/Email-dakshbhardwaj2@gmail.com-D14836)](mailto:dakshbhardwaj2@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-dakshbhardwaj-EA4AAA)](https://github.com/sponsors/dakshbhardwaj)
 
 ## 👋 Hello World!
 
 I'm a Senior Software Engineer from India 🇮🇳 with extensive experience in hybrid app development and modern web technologies. Passionate about creating innovative solutions and contributing to open-source projects that make a difference.
+
+## ❤️ Sponsor Me
+
+If you find my work useful and would like to support me, you can sponsor me using the link below:
+
+[![Sponsor dakshbhardwaj](https://img.shields.io/badge/Sponsor-dakshbhardwaj-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/dakshbhardwaj)
 
 ### 💫 Professional Summary
 
